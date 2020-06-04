@@ -5,7 +5,7 @@
      =(o_/=//_(   /======`
          ~"` ~"~~`
 Created on Thu Jun  4 09:13:05 2020
-@author: Chris
+@author: Christopher Eaby
 """
 #function to read from file
 def mutate():
